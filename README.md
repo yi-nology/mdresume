@@ -2,7 +2,7 @@
 
 [原始地址Markdown简历排版工具](https://resume.mdnice.com/)
 
-[本项目fork地址Markdown简历排版工具](https://mkresume.murphyyi.com/)
+[本项目fork地址Markdown简历排版工具](https://mdresume.murphyyi.com/)
 
 目前仅支持 Chrome 浏览器，开发者最近在忙另一个项目，可能照顾不周望谅解
 

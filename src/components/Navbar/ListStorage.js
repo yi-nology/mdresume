@@ -48,7 +48,7 @@ class ListStorage extends Component {
             button
             onClick={this.handleSave}
           >
-            <a className={classes.github} target="_blank" rel="noopener noreferrer" href="https://github.com/zy84338719/mkresume">
+            <a className={classes.github} target="_blank" rel="noopener noreferrer" href="https://github.com/zy84338719/mdresume">
               <img src={github} alt="logo" />
             </a>
           </ListItem>

@@ -67,7 +67,7 @@
   },
   "scripts": {
     "start": "node scripts/start.js",
-    "build": "node scripts/build.js && echo 'mkresume.murphyyi.com' > build/CNAME",
+    "build": "node scripts/build.js && echo 'mdresume.murphyyi.com' > build/CNAME",
     "test": "node scripts/test.js"
   },
   "eslintConfig": {
